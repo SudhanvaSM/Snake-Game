@@ -3,6 +3,7 @@
 A classic Snake game built using Python and the Turtle graphics library. In this game, you control a snake that grows longer each time it eats food while avoiding collisions with the walls and itself.
 
 How to Play: 
+
   1.Run the main.py file to start the game. 
   2.Use the arrow keys to control the snake. 
   3.Try to eat as much food as possible while avoiding collisions!
